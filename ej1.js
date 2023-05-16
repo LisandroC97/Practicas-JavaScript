@@ -95,7 +95,7 @@ if(presupuesto >3000)
 */
 
 //Ej 5
-
+/*
 
 let productoA=prompt("Ingresar primer producto:\n").toLowerCase();
 let productoB=prompt("Ingresar segundo producto:\n").toLowerCase();
